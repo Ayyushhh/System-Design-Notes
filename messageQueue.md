@@ -80,5 +80,3 @@ Imagine a **restaurant kitchen**:
 - **Flexibility:** New consumers can be added without disrupting existing workflows.  
 
 ---
-
-## Would you like to dive into specific message queue technologies like Kafka or RabbitMQ?
